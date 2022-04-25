@@ -1,0 +1,73 @@
+{
+    "product": [{
+            "id": 1,
+            "title": "iPhone SE 2022 | Chính hãng VN/A",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone1",
+            "price": 12490000
+        },
+        {
+            "id": 2,
+            "title": "iPhone 13 Pro Max 128GB | Chính hãng VN/A",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone2",
+            "price": 29700000
+        },
+        {
+            "id": 3,
+            "title": "iPhone 11 64GB I Chính hãng VN/A",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone3",
+            "price": 11790000
+        },
+        {
+            "id": 4,
+            "title": "Xiaomi Redmi Note 11 Pro Plus 5G",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone4",
+            "price": 9200000
+        },
+        {
+            "id": 5,
+            "title": "Xiaomi Redmi Note 11",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone5",
+            "price": 469000
+        },
+        {
+            "id": 6,
+            "title": "Samsung Galaxy S22 Ultra (8GB - 128GB)",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone6",
+            "price": 29190000
+        },
+        {
+            "id": 7,
+            "title": "Samsung Galaxy Note 20 Ultra 5G",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone7",
+            "price": 19990000
+        },
+        {
+            "id": 8,
+            "title": "Samsung Galaxy A53 (5G)",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone8",
+            "price": 8890000
+        },
+        {
+            "id": 9,
+            "title": "Xiaomi 11T",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone9",
+            "price": 9300000
+        },
+        {
+            "id": 10,
+            "title": "OPPO Reno7 Z (5G)",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "assets/images/phone10",
+            "price": 9790000
+        }
+    ]
+}
